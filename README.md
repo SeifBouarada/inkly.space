@@ -236,14 +236,12 @@ We welcome contributions from the community! Here's how you can help:
 - **Support:** help@inkly.space
 
 ### **Business & Partnerships**
-- **Business Development:** business@inkly.space
-- **Media Inquiries:** media@inkly.space
-- **Advertising:** ads@inkly.space
+- **Business Development:** contact@inkly.space
+- **Media Inquiries:** contact@inkly.space
+- **Advertising:** contact@inkly.space
 
 ### **Technical Support**
 - **GitHub Issues:** [Report bugs and feature requests](https://github.com/inkly/inkly.space/issues)
-- **Documentation:** [Technical documentation](https://docs.inkly.space)
-- **API Access:** [Developer resources](https://api.inkly.space)
 
 ---
 
